@@ -1,0 +1,11 @@
+# Ignore compiled Java class files
+*.class
+
+# Optional: ignore IDE/project-specific files
+*.log
+*.jar
+bin/
+out/
+.DS_Store
+*.iml
+.idea/
