@@ -1,4 +1,4 @@
-
+ 
 # Java Projects Series 🚀
 
 A structured collection of beginner to intermediate level Java projects designed to improve your coding skills, problem-solving ability, and confidence with core Java concepts. Each project is built with clean code, proper documentation, and real-world logic.
