@@ -10,7 +10,7 @@ A structured collection of beginner to intermediate level Java projects designed
 | 1           | Console Calculator        | A menu-driven calculator for basic arithmetic ops.  |
 | 2           | Student Management System | Manage student records using OOP & ArrayLists.      |
 | 3           | ATM Interface             | Simulate ATM operations like login, withdraw, etc.  |
-| 4           | Todo List CLI App         | Add/view/delete tasks using file handling.          |
+| 4           | Number Guessing Game        | Add/view/delete tasks using file handling.          |
 | ...         | More coming soon          | Stay tuned for more projects added every 2 days.    |
 
 ## 🔧 Technologies Used
@@ -49,7 +49,7 @@ A structured collection of beginner to intermediate level Java projects designed
 
 ## 📅 Update Schedule
 
-> 🔄 A new project is added every **2 days**  
+> 🔄 A new project is added every **1 days**  
 > 📤 Code is pushed daily on GitHub for each project's progress
 
 ## 🙌 Contributions
